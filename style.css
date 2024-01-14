@@ -216,3 +216,37 @@ h2 span {
     margin-bottom: 50px;
     margin-left: 15px;
 }
+
+footer {
+    max-width: 1440px;
+    height: 141px;
+}
+
+.conteiner-footer {
+    border-top: solid 1px;
+    border-color: #CBD5E1;
+}
+
+.copyright {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.copyright p {
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 23px;
+    text-align: left;
+    color: #CBD5E1;
+    margin: 62px 0 56px 108px;
+    gap: 677px;
+}
+
+.icons {
+    max-width: 152px;
+    height: 44px;
+    margin: 35px 174px 57px 677px;
+    gap: 10px;
+}
